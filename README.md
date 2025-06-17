@@ -15,7 +15,6 @@ IQMetrics/
 ├── diskmtf.py              # Python module to compute disk-based MTF
 ├── lpmtf.py                # Line Profile MTF computation
 ├── npsengine.py            # Noise Power Spectrum analysis tool
-├── analysis_4_ct_benchtest.ipynb  # Jupyter notebook demo for CT benchmarks
 ├── test.ipynb              # Quick Python notebook to test core functionality
 ├── README.md               # This readme
 └── .gitignore              # Ignore rules
@@ -46,11 +45,6 @@ IQMetrics/
    ```bash
    pip install numpy scipy matplotlib scikit-image
    ```
-3. Run demos in notebooks or import modules for your own workflow.
-
-### MATLAB
-
-No additional dependencies—just run scripts in the `matlab/` folder within your MATLAB environment.
-
+3. Run test.ipynb notebook or import modules for your own workflow.
 ---
 
